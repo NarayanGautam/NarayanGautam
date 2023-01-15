@@ -25,9 +25,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=narayangautam&theme=dark)<br/>
+![](https://git-stats-narayangautam.vercel.app/api?username=narayangautam&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=narayangautam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=narayangautam&theme=dark)
+![](https://git-stats-iota.vercel.app/api/top-langs/?username=narayangautam&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
