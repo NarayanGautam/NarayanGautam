@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuva Narayan Gautam</h1>
 <h3 align="center">An aspiring software developer studying Computer Science at Carleton University in Ottawa.</h3>
 
-- 🌱 I’m currently learning **React, React Native, SQL**
+- 🌱 I’m currently learning C++, SQL, TypeScript and React
 
 - ✉️ How to reach me at - <a href="mailto: gautns7@gmail.com" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="20" /></a>
 
