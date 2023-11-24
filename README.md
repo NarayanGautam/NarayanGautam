@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuva-narayan-gautam-1365b217a/) 
 
-# 💻 Tech Stack:
+<!--# 💻 Tech Stack:
 ## Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -27,6 +27,7 @@
 ![](https://git-stats-narayangautam.vercel.app/api?username=narayangautam&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=narayangautam&theme=dark&hide_border=false)<br/>
 ![](https://git-stats-narayangautam.vercel.app/api/top-langs/?username=narayangautam&theme=dark)
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
